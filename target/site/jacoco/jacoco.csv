@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+test2,com.example,SimpleInteger,0,23,0,0,0,7,0,2,0,2
+test2,com.example,App,7,0,0,0,3,0,2,0,2,0
+test2,com.example,Rational,465,0,54,0,103,0,58,0,31,0
+test2,com.example,Calculator,0,30,0,2,0,5,0,3,0,2
+test2,com.example,TestClass,75,0,8,0,19,0,8,0,4,0
+test2,com.example,GCD,18,0,2,0,7,0,3,0,2,0
+test2,com.example,NestedLoop,28,63,4,8,7,20,4,7,2,3
+test2,com.example,Complex,367,16,3,1,54,6,23,2,21,2
