@@ -1,6 +1,7 @@
 package com.example;
 
 public class Calculator {
+  
   public int evaluate(final String pExpression) {
     int sum = 0;
     
